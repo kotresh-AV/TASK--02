@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 qwerftgyhuj
+=======
+ASDFGH
+>>>>>>> 5d5b247fc1a302356c7e8dd7f948d018a6452994
